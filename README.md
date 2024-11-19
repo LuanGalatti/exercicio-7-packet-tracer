@@ -26,5 +26,5 @@ O projeto utiliza o Cisco Packet Tracer.
 
 ## Principais funcionalidades:
 Simular um ambiente onde uma conexão DSL foi estabelecida. \
-!![alt text](image.png)
+![alt text](image.png)
 
